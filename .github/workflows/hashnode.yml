@@ -21,7 +21,7 @@ jobs:
       - name: "📚 Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'Gokil'
+          USERNAME: 'gokil'
           COUNT: 4 # MAX Visible
           STYLE: "blog-grid-2"
           BLOG_URL: "https://gokilp.hashnode.dev/" # Replace 'YOUR_HASHNODE_USERNAME' with your Hashnode username
