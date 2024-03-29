@@ -16,24 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://gokilp.hashnode.dev/"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          readme_path: ./README.md
-          max_post_count: 5
-          disable_sort: false
-          filter_comments: "stackoverflow/Comment by $author/,stackexchange/Comment by $author/"
-          template: default
-          date_format: "UTC:ddd mmm dd yyyy h:MM TT"
-          user_agent: rss-parser
-          accept_header: application/rss+xml
-          commit_message: Updated with the latest blog posts
-          committer_username: blog-post-bot
-          committer_email: blog-post-bot@example.com
-          output_only: false
-          enable_keepalive: true
-          retry_count: 0
-          retry_wait_time: 1
-          disable_html_encoding: false
-          categories_template: default
-          disable_item_validation: false
-          skip_commit: false
+          feed_list: "https://gokilp.hashnode.dev/feed"
