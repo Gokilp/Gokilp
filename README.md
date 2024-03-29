@@ -17,11 +17,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Gokilp GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokilp&show_icons=true&bg_color=00000000)
+![Gokilp GitHub stats](https://github-readme-stats.vercel.app/api?username=GokilP&show_icons=true&bg_color=00000000)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokilp&show_icons=true&locale=en&layout=compact" alt="gokilp" /></p>
 
