@@ -10,6 +10,10 @@ jobs:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20.x'
       - name: "📥 Fetching Repository Contents"
         uses: actions/checkout@main
 
@@ -22,3 +26,4 @@ jobs:
           BLOG_URL: "https://gokilp.hashnode.dev/" # Replace 'YOUR_HASHNODE_USERNAME' with your Hashnode username
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
