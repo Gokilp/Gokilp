@@ -18,18 +18,17 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#242](https://github.com/Sriparno08/Openpedia/issues/242) in [Openpedia](https://github.com/Sriparno08/Openpedia)
-2. 🗣 Commented on [#246](https://github.com/Sriparno08/Openpedia/pull/246#event-11579316274) in [Openpedia](https://github.com/Sriparno08/Openpedia)
-3. 🗣 Commented on [#1](https://github.com/surendar-05/NFT-Website/pull/1#event-11912043004) in [NFT-Website](https://github.com/surendar-05/NFT-Website)
-4. 🗣 Commented on [#110](https://github.com/rbjks/rbjks.github.io/issues/110) in [rbjks](https://github.com/rbjks)
-5. 🗣 Commented on [#1](https://github.com/surendar-05/Digital-Clock/pull/1#issuecomment-2016544770) in [Digital-Clock](https://github.com/surendar-05/Digital-Clock)
+- 🎉 Merged PR [#242](https://github.com/Sriparno08/Openpedia/issues/242) in [Openpedia](https://github.com/Sriparno08/Openpedia)
+- 🗣 Commented on [#246](https://github.com/Sriparno08/Openpedia/pull/246#event-11579316274) in [Openpedia](https://github.com/Sriparno08/Openpedia)
+- 🗣 Commented on [#1](https://github.com/surendar-05/NFT-Website/pull/1#event-11912043004) in [NFT-Website](https://github.com/surendar-05/NFT-Website)
+- 🗣 Commented on [#110](https://github.com/rbjks/rbjks.github.io/issues/110) in [rbjks](https://github.com/rbjks)
+- 🗣 Commented on [#1](https://github.com/surendar-05/Digital-Clock/pull/1#issuecomment-2016544770) in [Digital-Clock](https://github.com/surendar-05/Digital-Clock)
 
 <!--END_SECTION:activity-->
 
 <h3 align="left">GitHub Stats:</h3>
 
 ![Gokilp GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokilp&show_icons=true&bg_color=00000000)
-
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
