@@ -49,19 +49,17 @@
 
 <!--END_SECTION:activity-->
 
-<h3 align="left">GitHub Stats:</h3>
 
-![Gokilp GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokilp&show_icons=true&bg_color=00000000)
+
+
+<h3 align="center">GitHub Stats:</h3>
+ 
+[![Gokilp's GitHub | Stats](https://stats.quine.sh/Gokilp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gokilp)
+
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<div>
- <p>
- 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokilp&show_icons=true&locale=en&layout=compact" alt="gokilp" />
- </p>
-</div>
 
 
 <h3>Thank you for visiting my profile, and I look forward to collaborating on exciting Open Source projects </h3>
