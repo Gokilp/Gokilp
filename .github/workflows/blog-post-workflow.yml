@@ -1,19 +1,30 @@
-name: Hash Node Blog post
+name: Publish
+
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+  # publish on event push on branch main.
+  push:
+    branches: ["main"]
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  publish:
+    # The OS you want to run on ubuntu-latest would be fine
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+       # This step is required as we need to get file details
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+       # The action which publish the blog
+      - name: Publish to Hashnode
+        # note: using @v2 (current latest version)
+        uses: raunakgurud09/hashnode-publish@v2
+        id: publish_hashnode
         with:
-          feed_list: "https://gokilp.hashnode.dev"
+          hashnode_key: ${{ secrets.HASHNODE_KEY }}
+          file: "path/to/your/markdown/file.md"
+          host: "https://gokilp.hashnode.dev/"
+
+        # To get additional detail logs about the workflow
+      - name: Get get output
+        run: echo "${{steps.publish_hashnode.outputs.result_json}} summary ${{steps.publish_hashnode.outputs.result_summary}}"
+
