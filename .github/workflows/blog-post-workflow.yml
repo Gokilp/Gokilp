@@ -10,21 +10,20 @@ jobs:
     # The OS you want to run on ubuntu-latest would be fine
     runs-on: ubuntu-latest
     steps:
-       # This step is required as we need to get file details
+      # This step is required as we need to get file details
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-       # The action which publish the blog
+        # The action which publish the blog
       - name: Publish to Hashnode
         # note: using @v2 (current latest version)
         uses: raunakgurud09/hashnode-publish@v2
         id: publish_hashnode
         with:
           hashnode_key: ${{ secrets.HASHNODE_KEY }}
-          file: "path/to/your/markdown/file.md"
+          file: "blog-post-workflow.md"
           host: "https://gokilp.hashnode.dev/"
 
         # To get additional detail logs about the workflow
       - name: Get get output
         run: echo "${{steps.publish_hashnode.outputs.result_json}} summary ${{steps.publish_hashnode.outputs.result_summary}}"
-
