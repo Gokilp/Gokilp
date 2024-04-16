@@ -1,29 +1,22 @@
-name: Publish
+name: 'Hashnode Blogs'
 
 on:
-  # publish on event push on branch main.
-  push:
-    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
 
 jobs:
-  publish:
-    # The OS you want to run on ubuntu-latest would be fine
-    runs-on: ubuntu-latest
+  update_blogs:
+    name: 'Hashnode Latest Blogs'
+    runs-on: macos-latest
     steps:
-      # This step is required as we need to get file details
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
 
-        # The action which publish the blog
-      - name: Publish to Hashnode
-        # note: using @v2 (current latest version)
-        uses: raunakgurud09/hashnode-publish@v2
-        id: publish_hashnode
+      - name: 'Hashnode Blog Action'
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          hashnode_key: ${{ secrets.HASHNODE_KEY }}
-          file: "blog-post-workflow.md"
-          host: "https://gokilp.hashnode.dev/"
-
-        # To get additional detail logs about the workflow
-      - name: Get get output
-        run: echo "${{steps.publish_hashnode.outputs.result_json}} summary ${{steps.publish_hashnode.outputs.result_summary}}"
+          HASHNODE_PUBLICATION_NAME: 'gokilp.hashnode.dev/'
+          FORMAT: 'stacked'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
