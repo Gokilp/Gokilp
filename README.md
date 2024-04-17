@@ -86,6 +86,18 @@
     </div>
 </p>
 
-<!-- Third Blog Post >
+<!-- Third Blog Post -->
+<p align="left">
+    <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands  Beginners">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4Mw7nkQDByk/upload/230e8595a4d7715383752888151f4318.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Linux Commands Beginner's " width="300px" align="left" />
+    </a>
+    <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands Beginners">
+        <strong>Linux Commands Beginner's</strong>
+    </a>
+    <div>
+        <strong>Feb 11, 2024</strong> <br>
+          Explore the power of the command line with Linux, where every keystroke unlocks a world of possibilities.
+    </div>
+</p>
 
 <!-- BLOG-POST-LIST:END -->
