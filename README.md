@@ -71,10 +71,21 @@
 <br/>
 
 <!-- Second blog -->
-<p align="left"><a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/6743339dbdac52d5d46ebf3be237e4f2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How to Learning Technology" width="300px" align="left" /></a><a href="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/6743339dbdac52d5d46ebf3be237e4f2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" title="How to Learning Technology"><strong>How to Learning Technology</strong></a><div><strong>April,3 2024</strong> <br>
-Self-studying is a valuable skill, especially in rapidly evolving fields like Techology and programming world.
-</div>
-<br>
+<p align="left">
+    <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/6743339dbdac52d5d46ebf3be237e4f2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How to Learning Technology" width="300px" align="left" />
+    </a>
+    <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to Learning Technology">
+        <strong>How to Learning Technology</strong>
+    </a>
+    <div>
+        <strong>April 3, 2024</strong> 
+        <br>
+        <br>
+        Self-studying is a valuable skill, especially in rapidly evolving fields like Technology and the programming world.
+    </div>
+</p>
+
 <!-- Third Blog Post >
 
 <!-- BLOG-POST-LIST:END -->
