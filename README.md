@@ -56,10 +56,10 @@
 
 # Recent Blog Posts ✍️
 <p align="left">
-    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object oriented Programming">
-        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object oriented Programming" width="300px" align="left" />
+    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in Java">
+        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object-oriented Programming" width="300px" align="left" />
     </a>
-    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object oriented Programming in JAVA"><strong>Detailed Object Oriented Programming</strong></a>
+    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in JAVA"><strong>Detailed Object Oriented Programming</strong></a>
     <div><strong>March 24, 2024</strong></div>
     <br/>
     Here's an introduction paragraph for an article on Object-Oriented Programming (OOP): 
@@ -69,7 +69,7 @@
     - Polymorphism
 </p>
 <br/>
-
+<br>
 <!-- Second blog -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology">
@@ -86,6 +86,7 @@
     </div>
 </p>
 <br>
+<br>
 <!-- Third Blog Post -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands  Beginners">
@@ -99,6 +100,7 @@
           Explore the power of the command line with Linux, where every keystroke unlocks a world of possibilities.
     </div>
 </p>
+<br>
 <br>
    <!-- fourth Blog -->
 <p align="left">
@@ -114,6 +116,7 @@
         Open source is the heartbeat of innovation, where collaboration fuels creativity and empowers communities world wide.
     </div>
 </p>
+<br>
 <br>
 <!-- Fiveth blog-->
 
@@ -131,5 +134,5 @@
     </div>
 </p>
 <br>
-
+<br>
 <!-- BLOG-POST-LIST:END -->
