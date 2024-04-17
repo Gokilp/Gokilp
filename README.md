@@ -99,20 +99,20 @@
           Explore the power of the command line with Linux, where every keystroke unlocks a world of possibilities.
     </div>
 </p>
+<br>
    <!-- fourth Blog -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
+        <br> <!-- Add line break here -->
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FQgI8AD-BSg/upload/0c99e49b19110d26336ddedb0f3dc5ef.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Open Source for Beginner's" width="300px" align="left" />
     </a>
-    <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's"> 
-  <br>
+    <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
         <strong>Open Source for Beginner's</strong>
     </a>
     <div>
-        <strong>Feb 11, 2024</strong> <br>
-        Open source is the heartbeat of innovation, where collaboration fuels creativity and empowers communities worldwide
-        <br>
-         
-</div>
+        <strong> March  29, 2024</strong> <br>
+        Open source is the heartbeat of innovation, where collaboration fuels creativity and empowers communities worldwide.
+    </div>
 </p>
+
 <!-- BLOG-POST-LIST:END -->
