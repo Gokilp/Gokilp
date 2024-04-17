@@ -79,7 +79,7 @@
         <strong>How to Learning Technology</strong>
     </a>
     <div>
-        <strong>April 3, 2024</strong> 
+        <strong> April 3, 2024</strong> 
         <br>
         <br>
         Self-studying is a valuable skill, especially in rapidly evolving fields like Technology and the programming world.
@@ -96,7 +96,9 @@
         <strong>Linux Commands Beginner's</strong>
     </a>
     <div>
-        <strong>Feb 11, 2024</strong> <br>
+        <strong> Feb 11, 2024 </strong> 
+        <br>
+        <br>
           Explore the power of the command line with Linux, where every keystroke unlocks a world of possibilities.
     </div>
 </p>
@@ -112,7 +114,9 @@
         <strong>Open Source for Beginner's</strong>
     </a>
     <div>
-        <strong> March  29, 2024</strong> <br>
+        <strong> March  29, 2024</strong> 
+        <br>
+        <br>
         Open source is the heartbeat of innovation, where collaboration fuels creativity and empowers communities world wide.
     </div>
 </p>
@@ -129,7 +133,9 @@
         <strong>Git and Git Command's</strong>
     </a>
     <div>
-        <strong> Feb 11, 2024</strong> <br>
+        <strong> Feb 11, 2024</strong> 
+        <br> 
+        <br>
       Explore the world of collaborative coding with GitHub, where developers converge to share, innovate, and build together.
     </div>
 </p>
