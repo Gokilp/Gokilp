@@ -85,7 +85,7 @@
         Self-studying is a valuable skill, especially in rapidly evolving fields like Technology and the programming world.
     </div>
 </p>
-
+<br>
 <!-- Third Blog Post -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands  Beginners">
