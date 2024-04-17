@@ -115,19 +115,19 @@
     </div>
 </p>
 <br>
-<!-- Fiveth blog--> 
+<!-- Fiveth blog-->
 
 <p align="left">
-    <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
+    <a href="https://gokilp.hashnode.dev/git-and-github-commands" title="Git and GitHub Command's">
         <br> 
-        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/FQgI8AD-BSg/upload/0c99e49b19110d26336ddedb0f3dc5ef.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Open Source for Beginner's" width="300px" align="left" />
+        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UT8LMo-wlyk/upload/71221e4a43c1cf3baf0b59d0fa5505de.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Git and Git hub Commands" width="300px" align="left" />
     </a>
-    <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
-        <strong>Open Source for Beginner's</strong>
+    <a href="https://gokilp.hashnode.dev/git-and-github-commands" title="Git and GitHub Command's">
+        <strong>Git and Git Command's</strong>
     </a>
     <div>
-        <strong> March  29, 2024</strong> <br>
-        Open source is the heartbeat of innovation, where collaboration fuels creativity and empowers communities worldwide.
+        <strong> Feb 11, 2024</strong> <br>
+      Explore the world of collaborative coding with GitHub, where developers converge to share, innovate, and build together.
     </div>
 </p>
 <br>
