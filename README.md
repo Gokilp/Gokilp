@@ -59,7 +59,7 @@
     <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in Java">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object-oriented Programming" width="300px" align="left" />
     </a>
-    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in JAVA"><strong>Detailed Object Oriented Programming</strong></a>
+    <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in JAVA"><strong> Object Oriented Programming in Java </strong></a>
     <div><strong>March 24, 2024</strong></div>
     <br/>
     Here's an introduction paragraph for an article on Object-Oriented Programming (OOP): 
@@ -93,7 +93,7 @@
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4Mw7nkQDByk/upload/230e8595a4d7715383752888151f4318.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Linux Commands Beginner's " width="300px" align="left" />
     </a>
     <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands Beginners">
-        <strong>Linux Commands Beginner's</strong>
+        <strong> Linux Commands Beginner's</strong>
     </a>
     <div>
         <strong> Feb 11, 2024 </strong> 
