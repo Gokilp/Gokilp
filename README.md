@@ -54,7 +54,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-<h3>Thank you for visiting my profile, and I look forward to collaborating on exciting Open Source projects </h3>
+# Recent Blog Posts ✍️
 <p align="left">
     <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object oriented Programming">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object oriented Programming" width="300px" align="left" />
