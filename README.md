@@ -83,6 +83,7 @@
     Self-studying is a valuable skill, especially in rapidly evolving fields like technology and programming.
 </p>
 <br>
+<br>
 
 <!-- Third Blog Post >
 
