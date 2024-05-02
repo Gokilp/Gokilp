@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gokil P</h1>
 
-- 💜I am passionate about Computer Science, Psychology, and Finance.
+- 💜 I am passionate about Computer Science, Psychology, and Finance.
 - 👯 I’m looking to collaborate on **Open source Enthusiastic**.
--  GirlScript Summer of Code 2024 Contributor 2024 
+- ❤️ GirlScript Summer of Code 2024 Contributor 
 - 🤝 I’m looking for help with **Web Development**.
 - 💬 Ask me about **web development**.
 - 📫 How to reach me: **Gokilp25@gmail.com**
