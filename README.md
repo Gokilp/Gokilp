@@ -1,3 +1,4 @@
+<!-- Introduction --> 
 <h1 align="center">Hi 👋, I'm Gokil P</h1>
 
 - 💜 I am passionate about Computer Science, Psychology, and Finance.
@@ -7,7 +8,7 @@
 - 💬 Ask me about **web development**.
 - 📫 How to reach me: **Gokilp25@gmail.com**
 
-
+  <!-- Connection --> 
 # Connect with us
 
 <a href="https://discord.com/invite/1120044400043630692"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
@@ -16,6 +17,7 @@
 <a href="https://www.linkedin.com/in/gokilp/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
 <a href="https://gokilp.hashnode.dev/"><img src="https://user-images.githubusercontent.com/91791257/235087337-b2a7d9c1-d07d-4d07-8f59-51ef37206a62.png" height="55px"></img></a>
 
+<!-- Lanuages and Tools --> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -47,11 +49,8 @@
     </a>
 </p>
 
-
-
+<!-- Recent PR --> 
 # Recent Activity :zap:
-
-<!--START_SECTION:activity-->
 
 - 🎉 Merged PR [#41](https://github.com/arghadipmanna101/Flipkart_Clone/pull/41) in [Flipkart clone](https://github.com/arghadipmanna101/Flipkart_Clone)
 - 🎉 Merged PR [#242](https://github.com/Sriparno08/Openpedia/issues/242) in [Openpedia](https://github.com/Sriparno08/Openpedia)
@@ -59,7 +58,7 @@
 - 🎉 Merged PR [#110](https://github.com/rbjks/rbjks.github.io/issues/110) in [rbjks](https://github.com/rbjks)
 - 🎉 Merged PR[#1](https://github.com/surendar-05/Digital-Clock/pull/1#issuecomment-2016544770) in [Digital-Clock](https://github.com/surendar-05/Digital-Clock)
 
-<!--END_SECTION:activity-->
+<!-- Github Status --> 
 
 <h3 align="center">GitHub Stats:</h3>
  
@@ -88,7 +87,6 @@
 </p>
 <br>
 <br>
-
 
 <!-- Second Blog Post --> 
 <p align="left">
@@ -126,6 +124,7 @@
 </p>
 <br/>
 <br>
+
 <!-- Four Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology">
@@ -143,6 +142,7 @@
 </p>
 <br>
 <br>
+
 <!-- Fifth Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
@@ -161,6 +161,7 @@
 </p>
 <br>
 <br>
+
 <!-- Six  blog post -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/git-and-github-commands" title="Git and GitHub Command's">
