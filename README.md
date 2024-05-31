@@ -69,6 +69,33 @@
 
 # Recent Blog Posts ✍️
 <p align="left">
+    <a href="https://gokilp.co/importance-of-devrel-beginners" title="DevRel Beginner's ">
+        <br> 
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717129805734/aadec3b8-f9ad-42ff-b7f1-152ec20c6379.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
+            alt="DevRel Beginner's" width="300px" align="left" />
+    </a>
+    <a href="https://gokilp.co/devrel-beginners" title="DevRel Beginner's">
+        <strong>DevRel Beginner's</strong>
+    </a>
+    <div>
+        <strong> May 30, 2024</strong> 
+        <br> 
+        <br>
+    Developer Relations (DevRel) is a field that focuses on building and nurturing relationships between a company and the developer community.
+    </div>
+</p>
+<br>
+<br>
+
+
+
+
+
+
+
+
+<!-- Frist Blog --> 
+<p align="left">
     <a href="https://gokilp.hashnode.dev/grilscript-summer-of-code" title="Grilscript Summer of code">
         <br> 
         <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715871777968/895ccd84-4cee-4294-9434-77700fa9c7db.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
@@ -87,7 +114,7 @@
 <br>
 <br>
 
-
+<-- Second Blog-->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in Java">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object-oriented Programming" width="300px" align="left" />
@@ -103,7 +130,7 @@
 </p>
 <br/>
 <br>
-<!-- Second blog -->
+<!-- Third  blog -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/6743339dbdac52d5d46ebf3be237e4f2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How to Learning Technology" width="300px" align="left" />
@@ -120,24 +147,7 @@
 </p>
 <br>
 <br>
-<!-- Third Blog Post -->
-<p align="left">
-    <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands  Beginners">
-        <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4Mw7nkQDByk/upload/230e8595a4d7715383752888151f4318.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Linux Commands Beginner's " width="300px" align="left" />
-    </a>
-    <a href="https://gokilp.hashnode.dev/linux-terminal-commands" title="Linux Commands Beginners">
-        <strong> Linux Commands Beginner's</strong>
-    </a>
-    <div>
-        <strong> Feb 11, 2024 </strong> 
-        <br>
-        <br>
-          Explore the power of the command line with Linux, where every keystroke unlocks a world of possibilities.
-    </div>
-</p>
-<br>
-<br>
-   <!-- fourth Blog -->
+<!-- Four Blog Post -->
 <p align="left">
     <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
         <br>
@@ -155,7 +165,7 @@
 </p>
 <br>
 <br>
-<!-- Fiveth blog-->
+<!-- Six  blog post -->
 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/git-and-github-commands" title="Git and GitHub Command's">
