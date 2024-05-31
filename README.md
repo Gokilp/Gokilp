@@ -55,7 +55,6 @@
 
 - 🎉 Merged PR [#41](https://github.com/arghadipmanna101/Flipkart_Clone/pull/41) in [Flipkart clone](https://github.com/arghadipmanna101/Flipkart_Clone)
 - 🎉 Merged PR [#242](https://github.com/Sriparno08/Openpedia/issues/242) in [Openpedia](https://github.com/Sriparno08/Openpedia)
-- 🎉 Merged PR[#246](https://github.com/Sriparno08/Openpedia/pull/246#event-11579316274) in [Openpedia](https://github.com/Sriparno08/Openpedia)
 - 🎉 Merged PR [#1](https://github.com/surendar-05/NFT-Website/pull/1#event-11912043004) in [NFT-Website](https://github.com/surendar-05/NFT-Website)
 - 🎉 Merged PR [#110](https://github.com/rbjks/rbjks.github.io/issues/110) in [rbjks](https://github.com/rbjks)
 - 🎉 Merged PR[#1](https://github.com/surendar-05/Digital-Clock/pull/1#issuecomment-2016544770) in [Digital-Clock](https://github.com/surendar-05/Digital-Clock)
@@ -69,6 +68,26 @@
 <!-- BLOG-POST-LIST:START -->
 
 # Recent Blog Posts ✍️
+<p align="left">
+    <a href="https://gokilp.hashnode.dev/grilscript-summer-of-code" title="Grilscript Summer of code">
+        <br> 
+        <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715871777968/895ccd84-4cee-4294-9434-77700fa9c7db.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"
+            alt="Grilscript Summer of code" width="300px" align="left" />
+    </a>
+    <a href="https://gokilp.co/grilscript-summer-of-code" title="Grilscript Summer of code">
+        <strong>Grilscript Summer of code</strong>
+    </a>
+    <div>
+        <strong> May 16, 2024</strong> 
+        <br> 
+        <br>
+    GirlScript Summer of Code (GSSOC) by GirlScript Foundation: a 3-month Open-Source Program for coding skill development and project contributions.
+    </div>
+</p>
+<br>
+<br>
+
+
 <p align="left">
     <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in Java">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object-oriented Programming" width="300px" align="left" />
