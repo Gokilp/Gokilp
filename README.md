@@ -53,6 +53,7 @@
 
 <!--START_SECTION:activity-->
 
+- 🎉 Merged PR [#41](https://github.com/arghadipmanna101/Flipkart_Clone/pull/41) in [Flipkart clone](https://github.com/arghadipmanna101/Flipkart_Clone)
 - 🎉 Merged PR [#242](https://github.com/Sriparno08/Openpedia/issues/242) in [Openpedia](https://github.com/Sriparno08/Openpedia)
 - 🎉 Merged PR[#246](https://github.com/Sriparno08/Openpedia/pull/246#event-11579316274) in [Openpedia](https://github.com/Sriparno08/Openpedia)
 - 🎉 Merged PR [#1](https://github.com/surendar-05/NFT-Website/pull/1#event-11912043004) in [NFT-Website](https://github.com/surendar-05/NFT-Website)
