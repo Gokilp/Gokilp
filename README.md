@@ -68,6 +68,8 @@
 <!-- BLOG-POST-LIST:START -->
 
 # Recent Blog Posts ✍️
+
+<!-- Frist Blog Post --> 
 <p align="left">
     <a href="https://gokilp.co/importance-of-devrel-beginners" title="DevRel Beginner's ">
         <br> 
@@ -88,13 +90,7 @@
 <br>
 
 
-
-
-
-
-
-
-<!-- Frist Blog --> 
+<!-- Second Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/grilscript-summer-of-code" title="Grilscript Summer of code">
         <br> 
@@ -114,7 +110,7 @@
 <br>
 <br>
 
-<-- Second Blog-->
+<!-- Third Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/object-oriented-programming-in-java" title="Object-oriented Programming in Java">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/bdZ3bzRde5g/upload/bb469fba9bf304477bc2051050f0680c.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Object-oriented Programming" width="300px" align="left" />
@@ -130,7 +126,7 @@
 </p>
 <br/>
 <br>
-<!-- Third  blog -->
+<!-- Four Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/self-study-success-empowering-your-learning-journey-in-technology" title="How to learning in Technology">
         <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Q1p7bh3SHj8/upload/6743339dbdac52d5d46ebf3be237e4f2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How to Learning Technology" width="300px" align="left" />
@@ -147,7 +143,7 @@
 </p>
 <br>
 <br>
-<!-- Four Blog Post -->
+<!-- Fifth Blog Post --> 
 <p align="left">
     <a href="https://gokilp.hashnode.dev/guide-for-beginners-in-open-source-development?source=more_articles_bottom_blogs" title="Open Source for Beginner's">
         <br>
@@ -166,7 +162,6 @@
 <br>
 <br>
 <!-- Six  blog post -->
-
 <p align="left">
     <a href="https://gokilp.hashnode.dev/git-and-github-commands" title="Git and GitHub Command's">
         <br> 
