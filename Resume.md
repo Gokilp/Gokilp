@@ -58,7 +58,6 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -96,7 +95,7 @@
 \sectionsep
 \subsection{AMMA MATRIC HR SEC SCHOOL}
 \descript{SSLC}
-\location{Grad May 2018| percentage 65.00}
+\location{Grad May 2019| percentage 65.00}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -134,21 +133,13 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    Achievement
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Achievement}
-
-\textbullet{}\href{https://www.amazon.in/7-Generation-memory-Googol-Gokil-ebook/dp/B0B74T279D/ref=sr_1_1?sr=8-1} 
-{\bf \textbf{7th Generation Memory Book}\textbf{ }} Published in Amazon Kindle 
-\\
-\textbullet{}\href{https://www.linkedin.com/feed/update/urn:li:activity:6944838457504456704/?originTrackingId=FNO9BGfDRMOIeLtiqVPfNw%3D%3D}{\bf Average Student}published associated  with  KG college of Arts and Science   \\
-\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7186056032618471425/} 
-{\bf \textbf{FOSSASIA Asia primer}\textbf{ }}open Source Conference \\
-\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7054709760079663104/} 
-{\bf \textbf{EUPHORIA }\textbf }Quizz competion in PSG college of Arts and Science
-\\
-\textbullet{} Teaching coding on open Source communities
-\\
-\sectionsep
-
+\section{Area of Interest } 
+\subsection{Technical}
+\textbullet{} Full Stack Web development \textbullet{} Block Chain \textbullet{} Artificial Intelligence \\
+\vspace{1em} % Add some space after the section
+\subsection{Non -Technical}
+\vspace{0.2em}
+\textbullet{} Designing \textbullet{} Networking \textbullet{} Content Creatio
 
 
 
@@ -190,7 +181,8 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \sectionsep
 
 \runsubsection{ Jwoc}
-\descript{| Open source Contributor }
+\descript{| Open source Contributor |
+\descript{\href{https://drive.google.com/file/d/1Jc7P1G_j96CvxS8CT5sEWKV4rP8gnKEM/view?usp=sharing}{\bf Live Link}}}
 \location{Jan 2024  – Feb 2024 | Remote}
 \begin{tightemize}
 \item openpedia project  Contribute open source  an front end project
@@ -205,44 +197,56 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 
 \section{Projects}
 \runsubsection{Amazon Clone}
-\descript{\href{https://github.com/Gokilp}{\bf Live Link}}
-\descript{ HTML | Css }
+\descript{\href{https://amazon-theta-gray.vercel.app/}{\bf Live Link}}
+\descript{ HTML | CSS }
 \begin{tightemize}
 \item Enhanced the user interface,improve 75 percentage better 
 \item  Given Open Source Peerlist Community in Open Source and GSSoC Contributor Project
 \item Git for version control, managing code changes and collaborating effectively with the development team.
 \end{tightemize}
-
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{Weather }
+\descript{\href{https://weather-app-two-mu-61.vercel.app/}{\bf Live Link}}
+\descript{ HTML | Css | Java Script }
+\begin{tightemize}
+\item Enhanced the user interface, resulting in an 90 percentage improve in visual
+appeal and user engagement
+\item  Using Public API  Showing weather details display on Screen 
+\end{tightemize}
 \sectionsep
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
+
+\section{Achievement}
+
+\textbullet{} \href{https://www.amazon.in/7-Generation-memory-Googol-Gokil-ebook/dp/B0B74T279D/ref=sr_1_1?sr=8-1}{\textbf{7th Generation Memory Book}} Published in\textbf{ Amazon Kindle} \\
+\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:6944838457504456704/?originTrackingId=FNO9BGfDRMOIeLtiqVPfNw%3D%3D}{\textbf{Average Student}} published associated with \textbf{KG College of Arts and Science} \\
+\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7186056032618471425/}{\textbf{FOSSASIA Asia Primer}} Open Source Conference \\
+\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7054709760079663104/}{\textbf{EUPHORIA}} Quiz competition in \textbf{PSG College of Arts and Science}\\
+\textbullet{} Teaching coding on \textbf{open source communities}
 \sectionsep
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
+\section{Organization}
+\runsubsection{Girl Script Summer of Code}
+\descript{| Campus Ambassador|
+\descript{\href{https://drive.google.com/file/d/1qMJ50FkA9s4XifTdWQYQKmexDbQLdbr3/view?usp=sharing}{\bf Live Link}}}
+\location{May 2024 - Present}
+\textbullet{}\textbf{ GirlScript Summer of Code} Campus Ambassador for a 
+  open Source  Source company communities , facilitating the
+ dissemination of their solutions to a wider audience 
+\sectionsep
+
 \renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
+\bibliographystyle{abbrev}
 \bibliography{publications}
 \nocite{*}
 
