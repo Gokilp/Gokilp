@@ -122,7 +122,7 @@ Twitter://  \href{https://x.com/Gokilp_25}{\bf @Gokilp\_25} \\
 \textbullet{} LINUX \textbullet{} GIT 
  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
+%     Tech profle 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Tech profile Link}
@@ -131,7 +131,7 @@ GitHub:// \href{https://github.com/Gokilp}{\bf  Gokilp} \\
 Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \vspace{1em}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%    Achievement
+%    Area of Interest
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Area of Interest } 
 \subsection{Technical}
@@ -192,7 +192,7 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%    Projects
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
@@ -216,7 +216,7 @@ appeal and user engagement
 \end{tightemize}
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
+%     Achievement
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -232,7 +232,7 @@ appeal and user engagement
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
+%     Organization
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Organization}
