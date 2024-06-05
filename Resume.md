@@ -177,7 +177,7 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item  Flipkart clone open-source project  
- increasing codebase efficiency by \textbf{25 percentage} and engaging a community 
+ increasing codebase efficiency by \textbf{ 25 percentage} and engaging a community 
 \item  Enhanced the user interface, resulting in an \textbf{85 percentage} improve  in visual appeal and user engagement.
 \item Git for version control, managing code changes and\textbf{ collaborating effectively} with the development team.
 \end{tightemize}
@@ -214,7 +214,7 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://weather-app-two-mu-61.vercel.app/}{\bf Live Link}}
 \descript{ HTML | Css | Java Script }
 \begin{tightemize}
-\item Enhanced the user interface, resulting in an \textbf{90 percentage improve} in visual
+\item Enhanced the user interface, resulting in an \textbf{90 percentage improve} visual
 appeal and user engagement
 \item Utilized a \textbf{public API} to display weather details on screen
 \end{tightemize}
