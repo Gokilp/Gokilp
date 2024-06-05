@@ -177,9 +177,9 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item  Flipkart clone open-source project  
- increasing codebase efficiency by 25 percentage and engaging a community 
-\item  Enhanced the user interface, resulting in an 85 percentage improve  in visual appeal and user engagement.
-\item Git for version control, managing code changes and collaborating effectively with the development team.
+ increasing codebase efficiency by \textbf{25 percentage} and engaging a community 
+\item  Enhanced the user interface, resulting in an \textbf{85 percentage} improve  in visual appeal and user engagement.
+\item Git for version control, managing code changes and\textbf{ collaborating effectively} with the development team.
 \end{tightemize}
 \sectionsep
 
@@ -189,8 +189,8 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \location{Jan 2024  – Feb 2024 | Remote}
 \begin{tightemize}
 \item  contributed to an \textbf{openpedia} project  open-source   increasing \textbf{codebase efficiency by 30 percentage}  
-\item Revamped the user interface, achieving an 90 percentage increase in visual appeal and user engagement.
-\item Utilized Git to manage code changes and facilitate seamless collaboration within the development team.
+\item Revamped the user interface, achieving an\textbf{ 90 percentage increase} in visual appeal and user engagement.
+\item Utilized Git to manage code changes and \textbf{facilitate seamless collaboration} within the development team.
 \end{tightemize}
 \sectionsep
 
@@ -204,9 +204,9 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://amazon-theta-gray.vercel.app/}{\bf Live Link}}
 \descript{ HTML | CSS }
 \begin{tightemize}
-\item Enhanced the user interface, improving performance by 75%.
-\item Contributed to the Open Source Peerlist Community, furthering open-source development and GSSoC initiatives.
-\item Git for version control, managing code changes and collaborating effectively with the development team.
+\item Enhanced the user interface, improving performance by 75 percentage.
+\item Contributed to the \textbf{Open Source Peerlist Community}, furthering open-source development and \textbf{GSSoC} initiatives.
+\item Git for version control, managing code changes and \textbf{collaborating effectively} with the development team.
 \end{tightemize}
 \sectionsep
 
@@ -214,9 +214,9 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://weather-app-two-mu-61.vercel.app/}{\bf Live Link}}
 \descript{ HTML | Css | Java Script }
 \begin{tightemize}
-\item Enhanced the user interface, resulting in an 90 percentage improve in visual
+\item Enhanced the user interface, resulting in an \textbf{90 percentage improve} in visual
 appeal and user engagement
-\item Utilized a public API to display weather details on screen
+\item Utilized a \textbf{public API} to display weather details on screen
 \end{tightemize}
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -247,7 +247,7 @@ appeal and user engagement
 \descript{\href{https://drive.google.com/file/d/1qMJ50FkA9s4XifTdWQYQKmexDbQLdbr3/view?usp=sharing}{\bf Live Link}}}
 \location{May 2024 - Present}
 \textbullet{}\textbf{ GirlScript Summer of Code} Campus Ambassador for a 
-  open Source   communities , facilitating the dissemination of their solutions to a wider audience 
+  \textbf{open Source   communities} , facilitating the dissemination of their solutions to a wider audience 
 \sectionsep
 
 
