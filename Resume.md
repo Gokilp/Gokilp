@@ -139,9 +139,11 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \vspace{1em} % Add some space after the section
 \subsection{Non -Technical}
 \vspace{0.2em}
-\textbullet{} Designing \textbullet{} Networking \textbullet{} Content Creatio
+\textbullet{} Designing \textbullet{} Networking \textbullet{} Content Creation
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Course Woe
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 \section{ course WOrk}
@@ -150,6 +152,7 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \textbullet{} NPTEL Python for Data Science \\
 \textbullet{} Java Programing \\
 \textbullet{} C++  Programing \\
+
 
 
 
@@ -168,13 +171,13 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-
 \runsubsection{GirlScript Summer of Code}
 \descript{| Open source  Contributor }
 \location{May 2024 - Present }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Flipkart clone  project  Contribute open source  an front end project
+\item  Flipkart clone open-source project  
+ increasing codebase efficiency by 25 percentage and engaging a community 
 \item  Enhanced the user interface, resulting in an 85 percentage improve  in visual appeal and user engagement.
 \item Git for version control, managing code changes and collaborating effectively with the development team.
 \end{tightemize}
@@ -185,11 +188,12 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://drive.google.com/file/d/1Jc7P1G_j96CvxS8CT5sEWKV4rP8gnKEM/view?usp=sharing}{\bf Live Link}}}
 \location{Jan 2024  – Feb 2024 | Remote}
 \begin{tightemize}
-\item openpedia project  Contribute open source  an front end project
+\item  contributed to an \textbf{openpedia} project  open-source   increasing \textbf{codebase efficiency by 30 percentage}  
 \item Revamped the user interface, achieving an 90 percentage increase in visual appeal and user engagement.
 \item Utilized Git to manage code changes and facilitate seamless collaboration within the development team.
 \end{tightemize}
 \sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    Projects
@@ -200,8 +204,8 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://amazon-theta-gray.vercel.app/}{\bf Live Link}}
 \descript{ HTML | CSS }
 \begin{tightemize}
-\item Enhanced the user interface,improve 75 percentage better 
-\item  Given Open Source Peerlist Community in Open Source and GSSoC Contributor Project
+\item Enhanced the user interface, improving performance by 75%.
+\item Contributed to the Open Source Peerlist Community, furthering open-source development and GSSoC initiatives.
 \item Git for version control, managing code changes and collaborating effectively with the development team.
 \end{tightemize}
 \sectionsep
@@ -212,24 +216,26 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \begin{tightemize}
 \item Enhanced the user interface, resulting in an 90 percentage improve in visual
 appeal and user engagement
-\item  Using Public API  Showing weather details display on Screen 
+\item Utilized a public API to display weather details on screen
 \end{tightemize}
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Achievement
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 \section{Achievement}
 
-\textbullet{} \href{https://www.amazon.in/7-Generation-memory-Googol-Gokil-ebook/dp/B0B74T279D/ref=sr_1_1?sr=8-1}{\textbf{7th Generation Memory Book}} Published in\textbf{ Amazon Kindle} \\
-\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:6944838457504456704/?originTrackingId=FNO9BGfDRMOIeLtiqVPfNw%3D%3D}{\textbf{Average Student}} published associated with \textbf{KG College of Arts and Science} \\
-\textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7186056032618471425/}{\textbf{FOSSASIA Asia Primer}} Open Source Conference \\
+\textbullet{} Published the \href{https://www.amazon.in/7-Generation-memory-Googol-Gokil-ebook/dp/B0B74T279D/ref=sr_1_1?sr=8-1}{\textbf{7th Generation Memory Book}} on Amazon Kindle
+
+\textbullet{} Co-authored the insightful publication 
+\href{https://www.linkedin.com/feed/update/urn:li:activity:6944838457504456704/originTrackingId=FNO9BGfDRMOIeLtiqVPfNw%3D%3D}{\textbf{Average Student}} in association with the respected.\textbf{KG College of Arts and Science} \\
+
+ \textbullet{}Actively participated and contributed valuable \href{https://www.linkedin.com/feed/update/urn:li:activity:7186056032618471425/}{\textbf{FOSSASIA Asia Primer}} Open Source Conference  Showcased commitment to continuous learning and development in open source\\
+
 \textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7054709760079663104/}{\textbf{EUPHORIA}} Quiz competition in \textbf{PSG College of Arts and Science}\\
 \textbullet{} Teaching coding on \textbf{open source communities}
 \sectionsep
-
-
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Organization
@@ -241,9 +247,10 @@ appeal and user engagement
 \descript{\href{https://drive.google.com/file/d/1qMJ50FkA9s4XifTdWQYQKmexDbQLdbr3/view?usp=sharing}{\bf Live Link}}}
 \location{May 2024 - Present}
 \textbullet{}\textbf{ GirlScript Summer of Code} Campus Ambassador for a 
-  open Source  Source company communities , facilitating the
- dissemination of their solutions to a wider audience 
+  open Source   communities , facilitating the dissemination of their solutions to a wider audience 
 \sectionsep
+
+
 
 \renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrev}
