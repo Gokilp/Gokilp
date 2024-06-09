@@ -58,11 +58,15 @@
 - 🎉 Merged PR [#110](https://github.com/rbjks/rbjks.github.io/issues/110) in [rbjks](https://github.com/rbjks)
 - 🎉 Merged PR[#1](https://github.com/surendar-05/Digital-Clock/pull/1#issuecomment-2016544770) in [Digital-Clock](https://github.com/surendar-05/Digital-Clock)
 
-<!-- Github Status --> 
+<!-- Github Status -->
 
 <h3 align="center">GitHub Stats:</h3>
  
-[![Gokilp's GitHub | Stats](https://stats.quine.sh/Gokilp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gokilp)
+[![Gokilp's GitHub | Stats](https://stats.quine.sh/Gokilp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gokilp) 
+
+
+<table>
+
 
 <!-- BLOG-POST-LIST:START -->
 
