@@ -86,7 +86,7 @@
 \subsection{KG College of Arts and \\ Science}
 
 \descript{B.Sc. Computer Science}
-\location{Expected 2024  July| CGPA: 81.63}
+\location{ Grad May 2024 | CGPA: 82.6}
 \sectionsep
 
 \subsection{AMMA MATRIC HR SEC SCHOOL}
@@ -113,7 +113,7 @@ Twitter://  \href{https://x.com/Gokilp_25}{\bf @Gokilp\_25} \\
 \section{Skills}
 
 \subsection{Languages}
-\textbullet{} C++ \textbullet{} Java \textbullet{} JavaScript \\
+\textbullet{} Node js  \textbullet{} Java \textbullet{} JavaScript \\
 \textbullet{} HTML \textbullet{} CSS \textbullet{} MySQL
 
 \vspace{1em} % Add some space after the section
