@@ -1,3 +1,4 @@
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
@@ -171,6 +172,20 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+
+\runsubsection{J Pencil Private Limited }
+\descript{| Software Engineer Intern }
+\location{May 2024 - Present }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Enhanced Front-End Development and \textbf{User Interface Design}
+\item Learning a \textbf{Back-end Node js and MySQL }
+\item Git for version control, managing code changes and\textbf{ collaborating effectively} 
+
+\end{tightemize}
+\sectionsep
+
+
 \runsubsection{GirlScript Summer of Code}
 \descript{| Open source  Contributor }
 \location{May 2024 - Present }
@@ -237,18 +252,7 @@ appeal and user engagement
 \sectionsep
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Organization
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Organization}
-\runsubsection{Girl Script Summer of Code}
-\descript{| Campus Ambassador|
-\descript{\href{https://drive.google.com/file/d/1qMJ50FkA9s4XifTdWQYQKmexDbQLdbr3/view?usp=sharing}{\bf Live Link}}}
-\location{May 2024 - Present}
-\textbullet{}\textbf{ GirlScript Summer of Code} Campus Ambassador for a 
-  \textbf{open Source   communities} , facilitating the dissemination of their solutions to a wider audience 
-\sectionsep
 
 
 
