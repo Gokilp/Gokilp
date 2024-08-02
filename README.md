@@ -11,8 +11,6 @@
 
   <!-- Connection --> 
 # Connect with us
-
-<a href="https://discord.com/invite/1120044400043630692"><img src="https://img.icons8.com/color/2x/discord--v2.png" height="60px"></img></a>
 <a href="https://github.com/Gokilp"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
 <a href="https://twitter.com/gokilp_25"><img src="https://i.postimg.cc/pVqVTNJd/X-logo.png" height="60px"></img></a>
 <a href="https://www.linkedin.com/in/gokilp/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" height="60px"></img></a>
