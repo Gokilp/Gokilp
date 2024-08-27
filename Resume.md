@@ -114,7 +114,7 @@ Twitter://  \href{https://x.com/Gokilp_25}{\bf @Gokilp\_25} \\
 \section{Skills}
 
 \subsection{Languages}
-\textbullet{} Node js  \textbullet{} Java \textbullet{} JavaScript \\
+\textbullet{} Cpp  \textbullet{} Java(Basic)\textbullet{} JavaScript(Basic) \\
 \textbullet{} HTML \textbullet{} CSS \textbullet{} MySQL
 
 \vspace{1em} % Add some space after the section
@@ -136,7 +136,8 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Area of Interest } 
 \subsection{Technical}
-\textbullet{} Full Stack Web development \textbullet{} Block Chain \textbullet{} Artificial Intelligence \\
+\textbullet{} Full Stack Web development \textbullet{}Psychology
+\textbullet{} Money Management \\
 \vspace{1em} % Add some space after the section
 \subsection{Non -Technical}
 \vspace{0.2em}
@@ -147,14 +148,14 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\section{ course WOrk}
+\section{ course Work}
 \subsection{Undergraduate}
 \textbullet{} Object Oriented Programming \\
-\textbullet{} NPTEL Python for Data Science \\
-\textbullet{} Java Programing \\
-\textbullet{} C++  Programing \\
-
-
+\textbullet{} C++  Programming \\
+\textbullet{} Girl Script Summer Of Code Contributor |
+\descript{\href{https://drive.google.com/file/d/1IAum2TjuBUgeqyRPfJEPR3uXpOLM4gKw/view?usp=sharing}{ Certificate Link }}
+\textbullet{} Jwoc   Contributor |
+\descript{\href{https://drive.google.com/file/d/1Jc7P1G_j96CvxS8CT5sEWKV4rP8gnKEM/view?usp=sharing}{ Certificate  }}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -174,24 +175,23 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \section{Experience}
 
 \runsubsection{J Pencil Private Limited }
-\descript{| Software Engineer Intern }
-\location{May 2024 - Present }
+\descript{| Software Engineer Internship }
+\location{ July 2024 - August 2024 }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Enhanced Front-End Development and \textbf{User Interface Design}
-\item Learning a \textbf{Back-end Node js and MySQL }
 \item Git for version control, managing code changes and\textbf{ collaborating effectively} 
 
 \end{tightemize}
 \sectionsep
 
 
-\runsubsection{GirlScript Summer of Code}
-\descript{| Open source  Contributor }
-\location{May 2024 - Present }
+\runsubsection{Girl Script Summer of Code}
+\descript{|   Contributor |  \descript{\href{https://drive.google.com/file/d/1IAum2TjuBUgeqyRPfJEPR3uXpOLM4gKw/view?usp=sharing}{\bf Live Link}}}
+\location{May 2024 - August 2024 |  Remote   }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item  Flipkart clone open-source project  
+\item  \textbf{Flipkart clone} open-source project  
  increasing codebase efficiency by \textbf{ 25 percentage} and engaging a community 
 \item  Enhanced the user interface, resulting in an \textbf{85 percentage} improve  in visual appeal and user engagement.
 \item Git for version control, managing code changes and\textbf{ collaborating effectively} with the development team.
@@ -203,7 +203,7 @@ Coding profile://\href{https://www.geeksforgeeks.org/user/gokil/}{\bf gokil} \\
 \descript{\href{https://drive.google.com/file/d/1Jc7P1G_j96CvxS8CT5sEWKV4rP8gnKEM/view?usp=sharing}{\bf Live Link}}}
 \location{Jan 2024  – Feb 2024 | Remote}
 \begin{tightemize}
-\item  contributed to an \textbf{openpedia} project  open-source   increasing \textbf{codebase efficiency by 30 percentage}  
+\item  contributed to an \textbf{openpedia} project  open-source   increasing \textbf{code base efficiency by 30 percentage}  
 \item Revamped the user interface, achieving an\textbf{ 90 percentage increase} in visual appeal and user engagement.
 \item Utilized Git to manage code changes and \textbf{facilitate seamless collaboration} within the development team.
 \end{tightemize}
@@ -248,7 +248,7 @@ appeal and user engagement
  \textbullet{}Actively participated and contributed valuable \href{https://www.linkedin.com/feed/update/urn:li:activity:7186056032618471425/}{\textbf{FOSSASIA Asia Primer}} Open Source Conference  Showcased commitment to continuous learning and development in open source\\
 
 \textbullet{} \href{https://www.linkedin.com/feed/update/urn:li:activity:7054709760079663104/}{\textbf{EUPHORIA}} Quiz competition in \textbf{PSG College of Arts and Science}\\
-\textbullet{} Teaching coding on \textbf{open source communities}
+\textbullet{} Teaching coding on open source \textbf{  GrowInCommunity} and \textbf{WeMakeDevs} Communities
 \sectionsep
 \sectionsep
 
