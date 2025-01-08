@@ -7,8 +7,10 @@
 - 💬 Ask me about **web development**.
 - 📫 How to reach me: **Gokilp25@gmail.com**
 
-  
- ![Gokil  Streak](http://github-readme-streak-stats.herokuapp.com?user=Gokilp&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+
+ ![Gokil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokilp&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+
+
   
   <!-- Connection --> 
 # Connect with us
