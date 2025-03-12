@@ -4,15 +4,10 @@
 
 - 💜 I am passionate about Computer Science, Psychology, and Finance.
 - 👯 I’m looking to collaborate on **Open source Enthusiastic**.
+- Currently working in Tata Consultancy Services
 - 🤝 I’m looking for help with **Web Development**.
 - 💬 Ask me about **web development**.
-- 📫 How to reach me: **Gokilp25@gmail.com**
-
-
- ![Gokil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gokilp&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
-
-
-  
+- 📫 How to reach me: **Gokilp25@gmail.com**  
   <!-- Connection --> 
 # Connect with us
 <a href="https://github.com/Gokilp"><img src="https://user-images.githubusercontent.com/91791257/235086411-9ec7aa5e-c095-44ce-b9e6-57b3bc3fead2.png" height="60px"></img></a>
