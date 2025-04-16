@@ -4,7 +4,7 @@
 
 - 💜 I am passionate about Computer Science, Psychology, and Finance.
 - 👯 I’m looking to collaborate on **Open source Enthusiastic**.
-- Currently working in Tata Consultancy Services
+- Currently working  software Engineer in Tata Consultancy Services.
 - 🤝 I’m looking for help with **Web Development**.
 - 💬 Ask me about **web development**.
 - 📫 How to reach me: **Gokilp25@gmail.com**  
